@@ -22,7 +22,7 @@
     "fontHeadlines": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
     "body": "#414c58",
     "headlines": "#02001D",
-    "primary": "#28aaff",
+    "primary": "#FF364E",
     "secondary": "#dfe3e7",
     "neutral": "#02001D",
     "complementary": "#e9f6ff",
