@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-c
+    colors: colors-f
     backgroundWidth: full
     title: A website builder for marketers and developers
     text: >
