@@ -9,7 +9,7 @@
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/stackbit-logo-hydrant.png",
+            "url": "/images/stackbit-logo-small.png",
             "altText": "Logo"
         },
         "primaryLinks": [
