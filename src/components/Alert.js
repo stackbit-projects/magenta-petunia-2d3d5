@@ -1,5 +1,5 @@
 const Alert = ({ body }) => {
-    return <div className="">
+    return <div className="p=">
         <p>{body}</p>
     </div>
 }
