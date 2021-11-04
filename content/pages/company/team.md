@@ -44,7 +44,6 @@ sections:
     colors: colors-c
     backgroundWidth: full
     title: About us
-    subtitle: Meet the team
     actions: []
     people:
       - content/data/team/desmond-eagle.json
