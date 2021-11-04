@@ -43,7 +43,6 @@ sections:
     variant: variant-b
     colors: colors-c
     backgroundWidth: full
-    title: About us
     actions: []
     people:
       - content/data/team/desmond-eagle.json
