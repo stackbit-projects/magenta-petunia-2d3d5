@@ -48,6 +48,7 @@ sections:
       - content/data/team/desmond-eagle.json
       - content/data/team/dianne-ameter.json
       - content/data/team/person-bzbu4t5ty.json
+      - content/data/team/hilary-ouse.json
     styles:
       self:
         height: auto
