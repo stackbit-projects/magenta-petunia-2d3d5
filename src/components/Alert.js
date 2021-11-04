@@ -5,3 +5,5 @@ const Alert = ({ body }) => {
         </div>
     </div>
 }
+
+export default Alert
