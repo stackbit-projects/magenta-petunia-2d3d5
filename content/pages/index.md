@@ -2,8 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: Alert
-    body: This is the alert. Pay attention to me!
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-c
