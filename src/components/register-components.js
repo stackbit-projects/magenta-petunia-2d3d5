@@ -4,7 +4,7 @@ import { componentsMap } from '@stackbit/components/dist/components-map';
 
 registerComponents({
     ...componentsMap,
-    Alert: dynamic(() => import('./Alert'))
+    // Alert: dynamic(() => import('./Alert'))
 });
 
 /**
